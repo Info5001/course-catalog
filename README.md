@@ -1,1 +1,1 @@
-## Course Catalog Template
+## Course Catalog
